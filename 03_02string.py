@@ -1,0 +1,9 @@
+a="joybarman"
+print(len(a))
+print(a[-1])
+print(a[1:3])
+print(a[:4])
+print(a[1:])
+print(a[-4:-1])
+print(a[0:9:3])
+print(a[0::3])

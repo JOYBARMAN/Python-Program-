@@ -1,0 +1,6 @@
+a=input("Enter your Fname :  ")
+b=input("Enter your Lname :  ")
+print("welcome ",a+b)
+print("the total len of b ic ",len(b))
+print(b[0])
+print(a[0:5])
